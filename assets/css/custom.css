@@ -12,7 +12,7 @@ a:focus { outline: 2px solid #FFD5DE; outline-offset: 2px; }
 /* === SIDEBAR ROJO COMPLETO === */
 .side-bar,
 .side-bar .site-nav,
-.side-bar .nav-list { background-color: #E00034 !important; }
+.side-bar .nav-list { background-color: #00ff9d !important; }
 
 /* Título del sitio en el sidebar */
 .side-bar .site-title {
