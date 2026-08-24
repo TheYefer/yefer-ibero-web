@@ -87,7 +87,7 @@ a:focus { outline: 2px solid #FFD5DE; outline-offset: 2px; }
 .breadcrumbs li a:hover { color: #b00028; }
 
 /* === CONTENIDO === */
-.page-content { background-color: #ffffff; color: #333333; }
+.page-content { background-color: #141414; color: #ffffff; }
 
 /* ===== 1) Header: iconos/botón del menú en blanco (forzado) ===== */
 .site-header svg,
