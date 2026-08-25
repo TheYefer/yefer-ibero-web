@@ -3,7 +3,7 @@
 .site-title, .site-nav a { color: #ffffff !important; }
 
 /* === ENLACES EN CONTENIDO (sin morado/azul y con subrayado del color) === */
-:root { --link-color: #E00034; }
+:root { --link-color: #ffae00; }
 a, a:visited { color: var(--link-color); }
 a { text-decoration-color: rgba(224, 0, 52, 0.4); }
 a:hover { color: #b00028; text-decoration-color: rgba(176, 0, 40, 0.6); }

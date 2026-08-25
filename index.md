@@ -17,5 +17,5 @@ Este repositorio está diseñado para entender como utilizar la plantilla de rep
 
 
 Contenido:
-- [1. Sobre mi](01-sobre-mi.md)
-- [2. Semana 1 - Portafolio web](02-semana1.md)
+- [**1. Sobre mi**](01-sobre-mi.md)
+- [**2. Semana 1 - Portafolio web**](02-semana1.md)
