@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Sobre mí
-nav_order: 6
+nav_order: 3
 ---
 
-# Sobre mí
+## Sobre mí
 
 Mi nombre es Yeferson Vega y actualmente estudio **Ingeniería Mecatrónica**.
 

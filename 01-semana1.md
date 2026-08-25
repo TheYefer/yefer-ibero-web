@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sobre mí
-nav_order: 6
+title: Semana 1: Portafolio web
+nav_order: 2
 ---
 
