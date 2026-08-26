@@ -5,7 +5,7 @@ nav_order: 3
 ---
 
 ## Semana 1
-
+---
 Se empezo con el desarrollo del **portafolio web** para ir poco a poco mostrando los avances de nuestros trabajos y proyectos durante el semestre
 ---
 ## Figura 1
