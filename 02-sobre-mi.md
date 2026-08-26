@@ -6,15 +6,15 @@ nav_order: 2
 
 ## Sobre mí
 
-Mi nombre es Yeferson Vega y actualmente estudio **Ingeniería Mecatrónica**.
+Mi nombre es Yeferson Vega y actualmente estudio **Ingeniería Mecatrónica y Sistema Ciberfisicos** en la ibero.
 
-Me interesa el mundo de la tecnología, especialmente áreas relacionadas con la programación, electrónica, robótica y computadoras.
+<!-- foto de mi -->
 
-## Formación académica
+Desde muy pequeño me intereso el mundo de la tecnología, especialmente áreas relacionadas con la programación, electrónica, robótica y especialmente computadoras.
 
-Actualmente me encuentro estudiando Ingeniería Mecatrónica.
+## ¿Qué espero durante mi ormación académica?
 
-Durante mi formación busco desarrollar conocimientos en áreas como:
+Durante mi formación en la universidad busco desarrollar conocimientos en áreas como:
 
 - Programación
 - Electrónica
@@ -23,9 +23,11 @@ Durante mi formación busco desarrollar conocimientos en áreas como:
 - Robótica
 - Diseño y modelado 3D
 
-## Intereses
+Aunque tambien me gustaria empezar a expandir mis conocimientos actuales a otros niveles que no pensaba conocer o llegar.
 
-Algunos de los temas que más me interesan son:
+## Mis intereses
+
+Algunos de los temas que más me interesan o me generan curiosidad son:
 
 - Tecnología
 - Hardware de computadoras
@@ -33,12 +35,13 @@ Algunos de los temas que más me interesan son:
 - Robótica
 - Inteligencia artificial
 - Desarrollo de proyectos tecnológicos
+- Maquinas automaticas
+- Mecanica automotriz
 
-## Objetivos
+## Mis objetivos
 
-Uno de mis principales objetivos es desarrollar proyectos que combinen programación, electrónica y mecánica para resolver problemas mediante tecnología.
-
-También quiero adquirir experiencia práctica durante mi carrera y continuar desarrollando mis habilidades profesionales.
+Uno de mis principales objetivos es desarrollar proyectos que combinen programación, electrónica, automatización y mecánica para resolver problemas con el uso avazando y etico de la tecnologia.
+También quiero adquirir experiencia práctica durante mi carrera y continuar desarrollando mis habilidades de forma profesional en el futuro.
 
 ## Habilidades
 
