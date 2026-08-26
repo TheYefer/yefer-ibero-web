@@ -10,5 +10,5 @@ Esta pagina sirve como portafolio para mostrar el proceso de aprendizaje durante
 
 
 Contenido:
-- [**1. Sobre mi**](01-sobre-mi.md)
-- [**2. Semana 1 - Portafolio web**](02-semana1.md)
+- [**1. Sobre mi**](02-sobre-mi.md)
+- [**2. Semana 1 - Portafolio web**](01-semana1.md)
