@@ -8,6 +8,7 @@ nav_order: 2
 
 <!-- foto de mi -->
 ![Figura 3 — GitHub](assets/img/01-publicar/fotoyeferson.png){: width="200" } 
+
 Mi nombre es Yeferson Vega y actualmente estudio **Ingeniería Mecatrónica y Sistema Ciberfisicos** en la ibero. 
 
 
