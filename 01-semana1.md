@@ -41,12 +41,10 @@ Aqui cree el apartado **semana 1** la cual es donde estas actualmente viendo est
 
 ![Figura 6 — GitHub](assets/img/01-publicar/mas imagenes.png)
 ---
-Aqui cambie el color de la barra lateral de la pagina web
+Aqui puse las imagenes que estan viendo ahora mismo
 ---
 
 ![Figura 7 — GitHub](assets/img/01-publicar/fotomia.png)
 ---
-Aqui cambie el color de la barra lateral de la pagina web
+Aqui agregue mi foto
 ---
-
-![Figura 8 — GitHub]()
