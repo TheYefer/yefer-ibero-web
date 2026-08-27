@@ -13,7 +13,7 @@ Mi nombre es Yeferson Vega y actualmente estudio **Ingeniería Mecatrónica y Si
 
 
 Desde muy pequeño me intereso el mundo de la tecnología, especialmente áreas relacionadas con la programación, electrónica, robótica y especialmente computadoras.
-
+---
 ## ¿Qué espero durante mi ormación académica?
 
 Durante mi formación en la universidad busco desarrollar conocimientos en áreas como:
