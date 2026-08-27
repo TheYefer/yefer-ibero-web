@@ -29,13 +29,13 @@ Aqui borre los demas apartados para agregar y/o modificar los apartados de la pa
 
 ![Figura 4 — GitHub](assets/img/01-publicar/Sobre mi.png)
 ---
-Aqui cree el apartado: - [**Sobre mi**](02-sobre-mi.md)
+Aqui cree el apartado: [**Sobre mi**](02-sobre-mi.md) donde puse un poco sobre mi 
 ---
 ## Figura 5
 
 ![Figura 5 — GitHub](assets/img/01-publicar/poniendo imagen.png)
 ---
-Aqui cambie el color de la barra lateral de la pagina web
+Aqui cree el apartado **semana 1** la cual es donde estas actualmente viendo esto
 ---
 ## Figura 6
 
