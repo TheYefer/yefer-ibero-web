@@ -35,7 +35,7 @@ Aqui cree el apartado: [**Sobre mi**](02-sobre-mi.md) donde puse un poco sobre m
 
 ![Figura 5 — GitHub](assets/img/01-publicar/poniendo imagen.png)
 ---
-Aqui cree el apartado **semana 1** la cual es donde estas actualmente viendo esto
+Aqui cree el apartado **semana 1** la cual es donde estas actualmente viendo esto.
 ---
 ## Figura 6
 
@@ -44,5 +44,9 @@ Aqui cree el apartado **semana 1** la cual es donde estas actualmente viendo est
 Aqui cambie el color de la barra lateral de la pagina web
 ---
 
-![Figura 7 — GitHub]()
+![Figura 7 — GitHub](assets/img/01-publicar/fotomia.png)
+---
+Aqui cambie el color de la barra lateral de la pagina web
+---
+
 ![Figura 8 — GitHub]()
