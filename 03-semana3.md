@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Practica Arduino
-nav_order: 2
+title: Semana 3 Practica Arduino
+nav_order: 4
 ---
 
 
