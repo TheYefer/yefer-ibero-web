@@ -4,7 +4,9 @@ title: Practica Arduino
 nav_order: 2
 ---
 
-[Ver video](assets/img/03-videos/practica 01-converted.MP4)
+<video controls width="600">
+  <source src="assets/img/03-videos/practica-01.mp4" type="video/mp4">
+</video>
 [Ver video](assets/img/03-videos/practica 02-converted.MP4)
 [Ver video](assets/img/03-videos/practica 03-converted.MP4)
 [Ver video](assets/img/03-videos/practica 04-converted.MP4)
