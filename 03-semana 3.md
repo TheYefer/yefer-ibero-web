@@ -4,7 +4,7 @@ title: Semana 3 Practica Arduino
 nav_order: 4
 ---
 
-### Reporte 1
+## Reporte 1
 Se realizaron diversos códigos en Arduino UNO, así, probando las funciones básicas que posee el microcontrolador por medio de circuitos simples que fueron dados por el profesor, utilizando principalmente entradas y salidas.
 
 Arduino, ¿Qué es?
