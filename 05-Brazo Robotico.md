@@ -12,20 +12,20 @@ Este proyecto consistió en construir un brazo robótico de MDF con cuatro servo
 
 Arduino UNO y cable USB, protoboard, jumpers, cuatro potenciómetros, cuatro servomotores y piezas de MDF cortadas con laser para la estructura. Tres de los servomotores son MG995, que son más grandes y tienen más fuerza, y el cuarto es un servo azul pequeño, igual al que se usó en las prácticas anteriores.
 
-![Figura 3 — GitHub](assets/brazo/videos/fotos/WhatsApp Image 2026-10-01 at 16.41.45 (12).png){: width="200" style="float: left; margin-right: 200px; margin-bottom: 100px;" }
+![Figura 3 — GitHub](/assets/brazo/videos/fotos/brazo 1.png){: width="200"}
 
 
 ### Conexiones
 
 Cada potenciómetro se conecta a una entrada analógica del Arduino y cada servomotor a una salida digital con PWM: A0, A1, A2, A3. Los servomotores comparten tierra con el Arduino.
 
-![Figura 3 — GitHub](assets/brazo/videos/fotos/WhatsApp Image 2026-10-01 at 16.41.45 (10).png){: width="200" style="float: left; margin-right: 200px; margin-bottom: 100px;" }
+![Figura 3 — GitHub](/assets/brazo/videos/fotos/brazo 2.png){: width="200"}
 
 
-![Figura 3 — GitHub](assets/brazo/videos/fotos/WhatsApp Image 2026-10-01 at 16.41.45 (9).png){: width="200" style="float: left; margin-right: 200px; margin-bottom: 100px;" }
+![Figura 3 — GitHub](/assets/brazo/videos/fotos/brazo 3.png){: width="200"}
 
 
-![Figura 3 — GitHub](assets/brazo/videos/fotos/WhatsApp Image 2026-10-01 at 16.41.45 (1).png){: width="200" style="float: left; margin-right: 200px; margin-bottom: 100px;" }
+![Figura 3 — GitHub](/assets/brazo/videos/fotos/brazo 4.png){: width="200"}
 
 
 ### Alimentación
@@ -103,15 +103,15 @@ void loop() {
 
 Primero se cortaron las piezas de MDF con una cortadora laser y se ensambló la base y los segmentos del brazo. Después se fijó cada servomotor en su articulación y se conectaron los potenciómetros. Donde unos de los problemas fue el peso de los servos pero se pudo solucionar rapaido.
 
-![Figura 3 — GitHub](assets/brazo/videos/fotos/WhatsApp Image 2026-10-01 at 16.41.45 (12).png){: width="200" style="float: left; margin-right: 200px; margin-bottom: 100px;" }
+![Figura 3 — GitHub](/assets/brazo/videos/fotos/brazo 1.png){: width="200"}
 
-![Figura 3 — GitHub](assets/brazo/videos/fotos/WhatsApp Image 2026-10-01 at 16.41.45 (11).png){: width="200" style="float: left; margin-right: 30px; margin-bottom: 20px;" }
+![Figura 3 — GitHub](/assets/brazo/videos/fotos/brazo 7.png){: width="200"}
 
-![Figura 3 — GitHub](assets/brazo/videos/fotos/WhatsApp Image 2026-10-01 at 16.41.45 (8).png){: width="200" style="float: left; margin-right: 200px; margin-bottom: 100px;" }
+![Figura 3 — GitHub](/assets/brazo/videos/fotos/brazo 4.png){: width="200"}
 
-![Figura 3 — GitHub](assets/brazo/videos/fotos/WhatsApp Image 2026-10-01 at 16.41.45 (7).png){: width="200" style="float: left; margin-right: 200px; margin-bottom: 100px;" }
+![Figura 3 — GitHub](/assets/brazo/videos/fotos/brazo 2.png){: width="200"}
 
-![Figura 3 — GitHub](assets/brazo/videos/fotos/WhatsApp Image 2026-10-01 at 16.41.45 (5).png){: width="200" style="float: left; margin-right: 200px; margin-bottom: 100px;" }
+![Figura 3 — GitHub](/assets/brazo/videos/fotos/brazo 6.png){: width="200"}
 
 ### Resultado -
 
