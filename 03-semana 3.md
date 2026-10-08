@@ -839,3 +839,8 @@ void loop()
 }
 ```
 
+## Conclusión
+
+Como conclusión, estos primeros ejercicios sirvieron como una introducción integral al ecosistema de Arduino. Al combinar el conocimiento teórico con la aplicación práctica de circuitos proporcionados en clase, se evidenció la facilidad con la que el microcontrolador principal interactúa con distintos elementos periféricos. Esta práctica sienta las bases lógicas de programación en C++ y electrónica necesarias para abordar proyectos interactivos más complejos en el futuro.
+
+Fue una clase muy interesante y fascinante, me gustaria volver mas trabajos de este estilo
