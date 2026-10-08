@@ -124,7 +124,7 @@ A pesar de todo el brazo cumplio con aguantar la pelota segundos y de pasarla pe
 </video>
 
 <video muted controls width="600">
-  <source src="{{ '/assets/brazo/videos/fotos/WhatsApp Video 2026-10-01 at 16.41.45.mp4' | relative_url }}" type="video/mp4">
+  <source src="{{ '/assets/brazo/videos/fotos/WhatsApp Video 2026-10-01 at 16.41.43.mp4' | relative_url }}" type="video/mp4">
 </video>
 
 ### Conclusión -
