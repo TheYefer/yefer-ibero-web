@@ -12,12 +12,13 @@ Este proyecto consistió en diseñar y fabricar un cubo de MDF cortado con láse
 
 ## Materiales y herramientas
 
-Lámina de MDF de 3 mm, cortadora láser, computadora con software de diseño solidworks.
+Lámina de MDF de 3 mm, cortadora láser y computadora con el software de diseño SolidWorks.
+
 | Material y herramienta | Uso |
 |---|---|
-| MDF | material usado para el cubo |
-| laser | Maquina para cortar el MDF |
-| Computadora | Diseñar en solidworks el cubo |
+| MDF | Material usado para el cubo |
+| Láser | Máquina para cortar el MDF |
+| Computadora | Diseñar el cubo en SolidWorks |
 
 ---
 
@@ -25,7 +26,7 @@ Lámina de MDF de 3 mm, cortadora láser, computadora con software de diseño so
 
 Se dibujaron las seis caras del cubo en solidwork teniendo en cuenta que la lamina de MDF tiene un grosor de 3 mm. Cada cara lleva pestañas y ranuras que se ajustan con las de las caras vecinas. Para que las piezas encajen bien.
 
-![Cubo 3 — GitHub](/assets/Cubo/cubo (5).png){: width="500"}
+![Cubo 5 en SolidWorks](assets/Cubo/cubo5.png){: width="500"}
 
 ---
 
@@ -50,7 +51,7 @@ Las caras se unieron encajando pestañas en ranuras.
 
 Se obtuvo un cubo firme, que encajo bien y se mantenia bien.
 
-![Cubo 4 — GitHub](/assets/Cubo/cubo (4).png){: width="500"}
+![Cubo 4 en SolidWorks](assets/Cubo/cubo4.png){: width="500"}
 ---
 
 ## Conclusión
