@@ -17,7 +17,7 @@ Lámina de MDF de 3 mm, cortadora láser, computadora con software de diseño so
 |---|---|
 | MDF | material usado para el cubo |
 | laser | Maquina para cortar el MDF |
-|Computadora | Diseñar en solidworks el cubo |
+| Computadora | Diseñar en solidworks el cubo |
 
 ---
 
@@ -25,7 +25,7 @@ Lámina de MDF de 3 mm, cortadora láser, computadora con software de diseño so
 
 Se dibujaron las seis caras del cubo en solidwork teniendo en cuenta que la lamina de MDF tiene un grosor de 3 mm. Cada cara lleva pestañas y ranuras que se ajustan con las de las caras vecinas. Para que las piezas encajen bien.
 
-![Figura 3 — GitHub](assets/Cubo/cubo (5).png){: width="500"}
+![Cubo 3 — GitHub](/assets/Cubo/cubo (5).png){: width="500"}
 
 ---
 
@@ -50,8 +50,7 @@ Las caras se unieron encajando pestañas en ranuras.
 
 Se obtuvo un cubo firme, que encajo bien y se mantenia bien.
 
-![Figura 3 — GitHub](assets/Cubo/cubo (4).png){: width="500"}
-
+![Cubo 4 — GitHub](/assets/Cubo/cubo (4).png){: width="500"}
 ---
 
 ## Conclusión
