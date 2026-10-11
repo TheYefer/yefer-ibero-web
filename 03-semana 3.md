@@ -17,7 +17,7 @@ En la mayoría de ellos, su hardware consta de una placa que contiene un microco
 Se programó el LED que ya trae la placa en el pin 13 para que parpadee, encendiéndose y apagándose cada segundo.
 
 <video muted controls width="600">
-  <source src="{{ '/assets/img/03-videos/practica 01-converted.mp4' | relative_url }}" type="video/mp4">
+  <source src="{{ '/assets/img/03-videos/practica01-converted.mp4' | relative_url }}" type="video/mp4">
 </video>
 
 ```cpp
@@ -40,7 +40,7 @@ void loop()
 ### Práctica 01
 
 <video muted controls width="600">
-  <source src="{{ '/assets/img/03-videos/practica 01-converted.mp4' | relative_url }}" type="video/mp4">
+  <source src="{{ '/assets/img/03-videos/practica01-converted.mp4' | relative_url }}" type="video/mp4">
 </video>
 
 ```cpp
@@ -62,7 +62,7 @@ void loop()
 Se probó la función delay, que marca cuánto tiempo se queda el LED encendido y apagado, usando un segundo de espera.
 
 <video muted controls width="600">
-  <source src="{{ '/assets/img/03-videos/practica 03-converted.mp4' | relative_url }}" type="video/mp4">
+  <source src="{{ '/assets/img/03-videos/practica03-converted.mp4' | relative_url }}" type="video/mp4">
 </video>
 
 ```cpp
@@ -84,7 +84,7 @@ void loop()
 Se conectó un LED directamente al Arduino para que parpadee con el mismo código de las prácticas anteriores.
 
 <video muted controls width="600">
-  <source src="{{ '/assets/img/03-videos/practica 04-converted.mp4' | relative_url }}" type="video/mp4">
+  <source src="{{ '/assets/img/03-videos/practica04-converted.mp4' | relative_url }}" type="video/mp4">
 </video>
 
 ```cpp
@@ -109,7 +109,7 @@ void loop()
 Se armó el circuito en la protoboard con una resistencia que protege al LED, y se repitió el parpadeo.
 
 <video muted controls width="600">
-  <source src="{{ '/assets/img/03-videos/practica 05-converted.mp4' | relative_url }}" type="video/mp4">
+  <source src="{{ '/assets/img/03-videos/practica05-converted.mp4' | relative_url }}" type="video/mp4">
 </video>
 
 ```cpp
@@ -134,7 +134,7 @@ void loop()
 Se agregó un segundo LED con su resistencia, y el código los hace prender uno después del otro.
 
 <video muted controls width="600">
-  <source src="{{ '/assets/img/03-videos/practica 06-converted.mp4' | relative_url }}" type="video/mp4">
+  <source src="{{ '/assets/img/03-videos/practica06-converted.mp4' | relative_url }}" type="video/mp4">
 </video>
 
 ```cpp
@@ -159,7 +159,7 @@ void loop()
 Con el mismo circuito de dos LEDs, el programa los enciende y apaga al mismo tiempo.
 
 <video muted controls width="600">
-  <source src="{{ '/assets/img/03-videos/practica 07-converted.mp4' | relative_url }}" type="video/mp4">
+  <source src="{{ '/assets/img/03-videos/practica07-converted.mp4' | relative_url }}" type="video/mp4">
 </video>
 
 ```cpp
@@ -184,7 +184,7 @@ void loop()
 Se conectó un display de 7 segmentos y se enviaron señales HIGH y LOW a cada segmento para formar un número.
 
 <video muted controls width="600">
-  <source src="{{ '/assets/img/03-videos/practica 08-converted.mp4' | relative_url }}" type="video/mp4">
+  <source src="{{ '/assets/img/03-videos/practica08-converted.mp4' | relative_url }}" type="video/mp4">
 </video>
 
 ```cpp
@@ -212,7 +212,7 @@ void loop()
 ### Práctica 08
 
 <video muted controls width="600">
-  <source src="{{ '/assets/img/03-videos/practica 9-converted.mp4' | relative_url }}" type="video/mp4">
+  <source src="{{ '/assets/img/03-videos/practica08-converted.mp4' | relative_url }}" type="video/mp4">
 </video>
 
 ```cpp
@@ -249,7 +249,7 @@ void loop()
 Se usó un botón como entrada digital. Mientras lo presionas, el LED se enciende.
 
 <video muted controls width="600">
-  <source src="{{ '/assets/img/03-videos/practica 10-converted.mp4' | relative_url }}" type="video/mp4">
+  <source src="{{ '/assets/img/03-videos/practica10-converted.mp4' | relative_url }}" type="video/mp4">
 </video>
 
 ```cpp
@@ -308,7 +308,7 @@ void loop()
 ### Práctica 10
 
 <video muted controls width="600">
-  <source src="{{ '/assets/img/03-videos/practica 10-converted.mp4' | relative_url }}" type="video/mp4">
+  <source src="{{ '/assets/img/03-videos/practica10-converted.mp4' | relative_url }}" type="video/mp4">
 </video>
 
 ```cpp
@@ -333,7 +333,7 @@ void loop()
 Se usó una condición if y else para leer el botón. Si está presionado se enciende el LED, y si no, se apaga.
 
 <video muted controls width="600">
-  <source src="{{ '/assets/img/03-videos/practica 12-converted.mp4' | relative_url }}" type="video/mp4">
+  <source src="{{ '/assets/img/03-videos/practica12-converted.mp4' | relative_url }}" type="video/mp4">
 </video>
 
 ```cpp
@@ -362,7 +362,7 @@ void loop()
 Es lo mismo que la práctica 12, pero con dos botones y dos LEDs, cada botón controlando su LED.
 
 <video muted controls width="600">
-  <source src="{{ '/assets/img/03-videos/practica 13-converted.mp4' | relative_url }}" type="video/mp4">
+  <source src="{{ '/assets/img/03-videos/practica13-converted.mp4' | relative_url }}" type="video/mp4">
 </video>
 
 ```cpp
@@ -395,7 +395,7 @@ void loop()
 Se simuló una compuerta OR. El LED se enciende si se presiona un botón o los dos.
 
 <video muted controls width="600">
-  <source src="{{ '/assets/img/03-videos/practica 14-converted.mp4' | relative_url }}" type="video/mp4">
+  <source src="{{ '/assets/img/03-videos/practica14-converted.mp4' | relative_url }}" type="video/mp4">
 </video>
 
 ```cpp
@@ -439,7 +439,7 @@ void loop()
 Se simuló una compuerta AND. El LED solo se enciende si se presionan los dos botones a la vez.
 
 <video muted controls width="600">
-  <source src="{{ '/assets/img/03-videos/practica 15-converted.mp4' | relative_url }}" type="video/mp4">
+  <source src="{{ '/assets/img/03-videos/practica15-converted.mp4' | relative_url }}" type="video/mp4">
 </video>
 
 ```cpp
@@ -475,7 +475,7 @@ void loop()
 Se hizo un contador con varios LEDs. Cada vez que presionas el botón se enciende un LED más, y al llegar al máximo se reinicia.
 
 <video muted controls width="600">
-  <source src="{{ '/assets/img/03-videos/practica 16-converted.mp4' | relative_url }}" type="video/mp4">
+  <source src="{{ '/assets/img/03-videos/practica16-converted.mp4' | relative_url }}" type="video/mp4">
 </video>
 
 ```cpp
@@ -511,7 +511,7 @@ void loop()
 Se conectó un servomotor y se programó para que se coloque en una posición fija, 90 grados en el ejemplo de tu amigo.
 
 <video muted controls width="600">
-  <source src="{{ '/assets/img/03-videos/practica 17-converted.mp4' | relative_url }}" type="video/mp4">
+  <source src="{{ '/assets/img/03-videos/practica17-converted.mp4' | relative_url }}" type="video/mp4">
 </video>
 
 ```cpp
@@ -585,7 +585,7 @@ void loop()
 El servomotor recorre una secuencia de posiciones (0, 90 y 180 grados) con una pausa de un segundo entre cada una.
 
 <video muted controls width="600">
-  <source src="{{ '/assets/img/03-videos/practica 18-converted.mp4' | relative_url }}" type="video/mp4">
+  <source src="{{ '/assets/img/03-videos/practica18-converted.mp4' | relative_url }}" type="video/mp4">
 </video>
 
 ```cpp
@@ -626,7 +626,7 @@ void loop()
 La posición del servomotor se controla con un potenciómetro. El código convierte la lectura analógica en un ángulo de 0 a 180 grados.
 
 <video muted controls width="600">
-  <source src="{{ '/assets/img/03-videos/practica 19-converted.mp4' | relative_url }}" type="video/mp4">
+  <source src="{{ '/assets/img/03-videos/practica19-converted.mp4' | relative_url }}" type="video/mp4">
 </video>
 
 ```cpp
@@ -667,7 +667,7 @@ void loop()
 Se agregó un segundo servomotor y ambos se mueven con un solo potenciómetro.
 
 <video muted controls width="600">
-  <source src="{{ '/assets/img/03-videos/practica 19_2-converted.mp4' | relative_url }}" type="video/mp4">
+  <source src="{{ '/assets/img/03-videos/practica19_2-converted.mp4' | relative_url }}" type="video/mp4">
 </video>
 
 ```cpp
@@ -705,7 +705,7 @@ void loop()
 Cada servomotor tiene su propio potenciómetro, así que se mueven de forma independiente.
 
 <video muted controls width="600">
-  <source src="{{ '/assets/img/03-videos/practica 20-converted.mp4' | relative_url }}" type="video/mp4">
+  <source src="{{ '/assets/img/03-videos/practica20-converted.mp4' | relative_url }}" type="video/mp4">
 </video>
 
 ```cpp
@@ -749,7 +749,7 @@ void loop()
 Segunda grabación del mismo circuito, mostrando con más detalle el movimiento independiente de cada servo.
 
 <video muted controls width="600">
-  <source src="{{ '/assets/img/03-videos/practica 20_2-converted.mp4' | relative_url }}" type="video/mp4">
+  <source src="{{ '/assets/img/03-videos/practica20_2-converted.mp4' | relative_url }}" type="video/mp4">
 </video>
 
 ```cpp
@@ -800,7 +800,7 @@ void loop()
 El servomotor se alimenta con una fuente externa en lugar del Arduino, para darle la potencia que necesita.
 
 <video muted controls width="600">
-  <source src="{{ '/assets/img/03-videos/practica 21-converted.mp4' | relative_url }}" type="video/mp4">
+  <source src="{{ '/assets/img/03-videos/practica21-converted.mp4' | relative_url }}" type="video/mp4">
 </video>
 
 ```cpp
