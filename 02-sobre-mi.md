@@ -9,7 +9,7 @@ nav_order: 2
 <!-- foto de mi -->
 ![Figura 3 — GitHub](assets/img/01-publicar/image.png){: width="200" style="float: left; margin-right: 30px; margin-bottom: 20px;" }
 
-Mi nombre es Yeferson Vega y actualmente estudio **Ingeniería Mecatrónica y Sistema Ciberfisicos** en la ibero. 
+Mi nombre es Yeferson Vega y actualmente estudio **Ingeniería Mecatrónica y Sistema Ciberfisicos** en la IBERO. 
 
 
 Desde muy pequeño me intereso el mundo de la tecnología, especialmente áreas relacionadas con la programación, electrónica, robótica y especialmente computadoras.
@@ -39,12 +39,12 @@ Algunos de los temas que más me interesan o me generan curiosidad son:
 - Robótica
 - Inteligencia artificial
 - Desarrollo de proyectos tecnológicos
-- Maquinas automaticas
-- Mecanica automotriz
+- Máquinas automáticas
+- Mecánica automotriz
 
 ## Mis objetivos
 
-Uno de mis principales objetivos es desarrollar proyectos que combinen programación, electrónica, automatización y mecánica para resolver problemas con el uso avazando y etico de la tecnologia.
+Uno de mis principales objetivos es desarrollar proyectos que combinen programación, electrónica, automatización y mecánica para resolver problemas con el uso avazando y ético de la tecnologia.
 También quiero adquirir experiencia práctica durante mi carrera y continuar desarrollando mis habilidades de forma profesional en el futuro.
 
 ## Habilidades

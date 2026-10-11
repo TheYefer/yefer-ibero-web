@@ -10,14 +10,14 @@ Este proyecto consistió en construir un brazo robótico de MDF con cuatro servo
 
 ### Materiales
 
-Arduino UNO y cable USB, protoboard, jumpers, cuatro potenciómetros, cuatro servomotores y piezas de MDF cortadas con laser para la estructura. Tres de los servomotores son MG995, que son más grandes y tienen más fuerza, y el cuarto es un servo azul pequeño, igual al que se usó en las prácticas anteriores.
+Arduino UNO y cable USB, protoboard, jumpers, cuatro potenciómetros, cuatro servomotores y piezas de MDF cortadas con láser para la estructura. Tres de los servomotores son MG995, que son más grandes y tienen más fuerza, y el cuarto es un servo azul pequeño, igual al que se usó en las prácticas anteriores.
 
 ![Figura 3 — GitHub](/assets/brazo/videos/fotos/brazo 1.png){: width="500"}
 
 
 ### Conexiones
 
-Cada potenciómetro se conecta a una entrada analógica del Arduino y cada servomotor a una salida digital con PWM: A0, A1, A2, A3. Los servomotores comparten tierra con el Arduino.
+Cada potenciómetro se conecta a una entrada analógica del ARDUINO y cada servomotor a una salida digital con PWM: A0, A1, A2, A3. Los servomotores comparten tierra con el Arduino.
 
 ![Figura 3 — GitHub](/assets/brazo/videos/fotos/brazo 2.png){: width="500"}
 
@@ -99,9 +99,9 @@ void loop() {
 }
 ```
 
-### Construcción -
+### Construcción
 
-Primero se cortaron las piezas de MDF con una cortadora laser y se ensambló la base y los segmentos del brazo. Después se fijó cada servomotor en su articulación y se conectaron los potenciómetros. Donde unos de los problemas fue el peso de los servos pero se pudo solucionar rapaido.
+Primero se cortaron las piezas de MDF con una cortadora láser y se ensambló la base y los segmentos del brazo. Después se fijó cada servomotor en su articulación y se conectaron los potenciómetros. Donde unos de los problemas fue el peso de los servos pero se pudo solucionar rapido.
 
 ![Figura 3 — GitHub](/assets/brazo/videos/fotos/brazo 1.png){: width="500"}
 
@@ -113,7 +113,7 @@ Primero se cortaron las piezas de MDF con una cortadora laser y se ensambló la 
 
 ![Figura 3 — GitHub](/assets/brazo/videos/fotos/brazo 6.png){: width="500"}
 
-### Resultado -
+### Resultado
 
 El brazo responde al movimiento de cada potenciómetro de forma independiente. Al usar servomotores MG995 en las articulaciones principales, el movimiento tiene más fuerza que con los servos pequeños. Aunque el brazo tiende a vibrar un poco ya que la energia que consume es demasiada y no esta del todo fijo.
 
@@ -127,6 +127,6 @@ A pesar de todo el brazo cumplio con aguantar la pelota segundos y de pasarla pe
   <source src="{{ '/assets/brazo/videos/fotos/WhatsApp Video 2026-10-01 at 16.41.43.mp4' | relative_url }}" type="video/mp4">
 </video>
 
-### Conclusión -
+### Conclusión
 
 Con este proyecto se aplicó lo visto en las prácticas de servomotores y potenciómetros en un sistema completo. También se vio que elegir bien los servomotores y su alimentación es importante para que el brazo funcione de forma estable. 

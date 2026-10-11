@@ -5,53 +5,53 @@ nav_order: 3
 ---
 
 ## Semana 1
-Se empezo con el desarrollo del **portafolio web** para ir poco a poco mostrando los avances de nuestros trabajos y proyectos durante el semestre
+Se empezo con el desarrollo del **portafolio web** para ir poco a poco mostrando los avances de nuestros trabajos y proyectos durante el semestre.
 
 ---
 ## Figura 1
 
 ![Figura 1 — GitHub](assets/img/01-publicar/codigo de color linea 10 a 13.png)
 ---
-Aqui cambie el color de la barra lateral de la pagina web
+Aquí cambie el color de la barra lateral de la página web
 
 ## Figura 2
 
 ![Figura 2 — GitHub](assets/img/01-publicar/Customcss.png)
 ---
-Aqui es donde se ubica el archivo "custom.css" para moodificar y personalizar los colores y demas en la pagina web
+Aquí es donde se ubica el archivo "custom.css" para moodificar y personalizar los colores y demás en la página web
 
 ---
 ## Figura 3
 
 ![Figura 3 — GitHub](assets/img/01-publicar/index.png)
 ---
-Aqui borre los demas apartados para agregar y/o modificar los apartados de la pagina
+Aquí borre los demás apartados para agregar y/o modificar los apartados de la página
 
 ---
 ## Figura 4
 
 ![Figura 4 — GitHub](assets/img/01-publicar/Sobre mi.png)
 ---
-Aqui cree el apartado: [**Sobre mi**](02-sobre-mi.md) donde puse un poco sobre mi 
+Aquí cree el apartado: [**Sobre mí**](02-sobre-mi.md) donde puse un poco sobre mí 
 
 ---
 ## Figura 5
 
 ![Figura 5 — GitHub](assets/img/01-publicar/poniendo imagen.png)
 ---
-Aqui cree el apartado **semana 1** la cual es donde estas actualmente viendo esto.
+Aquí cree el apartado **semana 1** la cual es donde estás actualmente viendo esto.
 
 ---
 ## Figura 6
 
 ![Figura 6 — GitHub](assets/img/01-publicar/mas imagenes.png)
 ---
-Aqui puse las imagenes que estan viendo ahora mismo
+Aquí puse las imágenes que están viendo ahora mismo.
 
 ---
 
 ![Figura 7 — GitHub](assets/img/01-publicar/fotomia.png)
 ---
-Aqui agregue mi foto
+Aquí agregué mi foto.
 
 ---
