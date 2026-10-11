@@ -511,7 +511,7 @@ void loop()
 Se conectó un servomotor y se programó para que se coloque en una posición fija, 90 grados en el ejemplo de tu amigo.
 
 <video muted controls width="600">
-  <source src="{{ '/assets/img/03-videos/practica17-converted.mp4' | relative_url }}" type="video/mp4">
+  <source src="{{ '/assets/img/03-videos/practica16-converted.mp4' | relative_url }}" type="video/mp4">
 </video>
 
 ```cpp
