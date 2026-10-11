@@ -84,7 +84,7 @@ void loop()
 Se conectó un LED directamente al Arduino para que parpadee con el mismo código de las prácticas anteriores.
 
 <video muted controls width="600">
-  <source src="{{ '/assets/img/03-videos/practica04-converted.mp4' | relative_url }}" type="video/mp4">
+  <source src="{{ '/assets/img/03-videos/practica03-converted.mp4' | relative_url }}" type="video/mp4">
 </video>
 
 ```cpp
