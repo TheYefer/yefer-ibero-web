@@ -12,7 +12,7 @@ nav_order: 2
 Mi nombre es Yeferson Vega y actualmente estudio **Ingeniería Mecatrónica y Sistema Ciberfisicos** en la IBERO. 
 
 
-Desde muy pequeño me intereso el mundo de la tecnología, especialmente áreas relacionadas con la programación, electrónica, robótica y especialmente computadoras.
+Desde muy pequeño me interesó el mundo de la tecnología, especialmente áreas relacionadas con la programación, electrónica, robótica y especialmente computadoras.
 
 
 
