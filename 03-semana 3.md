@@ -682,7 +682,7 @@ int pos;        //Variable que almacena la posicion del servo
 
 void setup()
 {
-  // Iniciamos el servo para que empiece a trabajar con el pin 9
+  // Iniciamos el servo para que empiece a trabajar con el pin #9
   servoMotor.attach(9);
 }
 
